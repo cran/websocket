@@ -1,5 +1,5 @@
 Package: websocket
-Version: 1.4.2
+Version: 1.4.4
 Title: 'WebSocket' Client Library
 Description: Provides a 'WebSocket' client interface for R.
     'WebSocket' is a protocol for low-overhead real-time communication:
@@ -26,7 +26,7 @@ RoxygenNote: 7.3.2
 Suggests: httpuv, testthat, knitr, rmarkdown
 VignetteBuilder: knitr
 NeedsCompilation: yes
-Packaged: 2024-07-22 17:16:18 UTC; winston
+Packaged: 2025-04-09 10:46:21 UTC; cg334
 Author: Winston Chang [aut, cre],
   Joe Cheng [aut],
   Alan Dipert [aut],
@@ -39,4 +39,4 @@ Author: Winston Chang [aut, cre],
   Bjoern Hoehrmann [ctb, cph] (UTF8 Validation library)
 Maintainer: Winston Chang <winston@posit.co>
 Repository: CRAN
-Date/Publication: 2024-07-22 22:20:01 UTC
+Date/Publication: 2025-04-10 09:00:02 UTC
